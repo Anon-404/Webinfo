@@ -14,7 +14,7 @@ For debian based linux os
 ```bash
 sudo apt install whois -y
 sudo apt install host -y
-https://github.com/Anon-404/Webinfo/
+git clone https://github.com/Anon-404/Webinfo/
 cd Webinfo
 chmod 777 *
 bash webinfo.sh
@@ -25,7 +25,7 @@ For termux
 pkg install whois -y
 pkg install git -y
 pkg install host -y
-https://github.com/Anon-404/Webinfo/
+git clone https://github.com/Anon-404/Webinfo/
 cd Webinfo
 chmod 777 *
 bash webinfo.sh
@@ -36,7 +36,7 @@ For arch based linux os
 ```bash
 sudo pacman -Sy whois -y
 sudo pacman -Sy host -y
-https://github.com/Anon-404/Webinfo/
+git clone https://github.com/Anon-404/Webinfo/
 cd Webinfo
 chmod 777 *
 bash webinfo.sh
